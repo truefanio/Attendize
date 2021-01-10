@@ -1,2 +1,35 @@
 node_modules
-.env
+.env# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
